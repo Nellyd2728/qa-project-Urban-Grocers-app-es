@@ -5,7 +5,7 @@ Nelly Dominguez
 
 Descripción del Proyecto:
 
-El Proyecto se trató de comprobar cómo la aplicación Urban Grocers crea kits de productos, Se establecieron los siguientes endpoint para la automatizacion de pruebas para la creación de kit en Urban Grocers, especificamente, para el campo "name"
+El Proyecto se trató de comprobar cómo la aplicación Urban Grocers crea kits de productos, Se establecieron los siguientes endpoint para la automatizacion de pruebas para la creación de kit en Urban Grocers, especificamente, para el campo "name":
 # URL_SERVICE 
 # CREATE_USER_PATH = "/api/v1/users/"
 # KITS_PATH = "/api/v1/kits/"
@@ -30,13 +30,15 @@ Así mismo se ejecutaron las siguientes funciones para la ejecución de las prue
 
 Descripción de tecnologías utilizadas:
 •	Pycharm Community Edition 2025.1.2.
+
 •	Git Bash.
+
 •	Github.
 
 Se enlistaron las siguientes pruebas según requerimiento:
 ![img_1.png](img_1.png)
 
-Así mismo se instalaron las librerías pip
+Así mismo se instalaron las librerías pip:
 La ejecución del proyecto se apoyo con la documentación de la api
 Se realizaron las importaciones de request, configuración y data
 

@@ -12,7 +12,7 @@ El Proyecto se trató de comprobar cómo la aplicación Urban Grocers crea kits 
 
 Instrucciones para ejecutar las pruebas:
 
-•	Automatizar las pruebas desde esta lista de comprobación, cargar el código en GitHub y enviar el repositorio a revisión.
+•	Automatizar las pruebas desde una lista de comprobación, cargar el código en GitHub y enviar el repositorio a revisión.
 
 •	Api de Urban Grocers.
 

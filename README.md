@@ -1,16 +1,15 @@
-﻿Nombre del proyecto  
-qa-project-Urban-Grocers-app-es
-Cohorte 31
-Nelly Dominguez
+# *﻿Nombre del proyecto: qa-project-Urban-Grocers-app-es*
+**Cohorte 31**
+# **Nelly Dominguez**
 
-Descripción del Proyecto:
+## **Descripción del Proyecto:**
 
 El Proyecto se trató de comprobar cómo la aplicación Urban Grocers crea kits de productos, Se establecieron los siguientes endpoint para la automatizacion de pruebas para la creación de kit en Urban Grocers, especificamente, para el campo "name":
-# URL_SERVICE 
-# CREATE_USER_PATH = "/api/v1/users/"
-# KITS_PATH = "/api/v1/kits/"
+URL_SERVICE 
+CREATE_USER_PATH = "/api/v1/users/"
+KITS_PATH = "/api/v1/kits/"
 
-Instrucciones para ejecutar las pruebas:
+## **Instrucciones para ejecutar las pruebas:**
 
 •	Automatizar las pruebas desde una lista de comprobación, cargar el código en GitHub y enviar el repositorio a revisión.
 
@@ -21,14 +20,14 @@ Instrucciones para ejecutar las pruebas:
 •	Ejecuta todas las pruebas con el comando pytest.
 
 Así mismo se ejecutaron las siguientes funciones para la ejecución de las pruebas:
-# post_new_user(body)
-# post_new_client_kit(kit_body, auth_token)
-# get_kit_body(name)
-# get_new_user_token()
-# positive_assert(kit_body)
-# negative_assert_code_400(kit_body)
+post_new_user(body)
+post_new_client_kit(kit_body, auth_token)
+get_kit_body(name)
+get_new_user_token()
+positive_assert(kit_body)
+negative_assert_code_400(kit_body)
 
-Descripción de tecnologías utilizadas:
+## **Descripción de tecnologías utilizadas:**
 
 •	Pycharm Community Edition 2025.1.2.
 

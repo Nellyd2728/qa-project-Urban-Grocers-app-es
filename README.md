@@ -13,8 +13,11 @@ El Proyecto se trató de comprobar cómo la aplicación Urban Grocers crea kits 
 Instrucciones para ejecutar las pruebas:
 
 •	Automatizar las pruebas desde esta lista de comprobación, cargar el código en GitHub y enviar el repositorio a revisión.
+
 •	Api de Urban Grocers.
+
 •	Tener instalados los paquetes pytest y request para ejecutar las pruebas.
+
 •	Ejecuta todas las pruebas con el comando pytest.
 
 Así mismo se ejecutaron las siguientes funciones para la ejecución de las pruebas:

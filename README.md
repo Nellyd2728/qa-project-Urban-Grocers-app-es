@@ -29,6 +29,7 @@ Así mismo se ejecutaron las siguientes funciones para la ejecución de las prue
 # negative_assert_code_400(kit_body)
 
 Descripción de tecnologías utilizadas:
+
 •	Pycharm Community Edition 2025.1.2.
 
 •	Git Bash.
